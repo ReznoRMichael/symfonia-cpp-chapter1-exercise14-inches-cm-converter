@@ -1,0 +1,55 @@
+I. Poprawność nazw zmiennych
+a) predkosc4 - poprawna
+b) Predkosc_i_czas - poprawna
+c) 4kola - niepoprawna (cyfra nie moze byc pierwsza)
+d) wielki.czwartek - niepoprawna (mozna tylko uzywac _ )
+e) ilosc_powtorzen_cyklu_roboczego - poprawna
+f) _zmienna - poprawna, lecz odradzana
+g) LICZBA_KONWERTEROW - poprawna
+h) okno^ekranowe - niepoprawna (mozna tylko uzywac _ )
+i) samochod-osobowy - niepoprawna (mozna tylko uzywac _ )
+j) auto - niepoprawna (nazwa zarezerwowana)
+k) kwota_zainwestowanych_$ - niepoprawna (mozna tylko uzywac _ )
+l) wspolczynnik_(chwilowego)_przyrostu - niepoprawna (nawiasy)
+m) export_pszenicy - poprawna 
+n) export - niepoprawna (nazwa zarezerwowana)
+
+II. Zasadnicze etapy niezbędne do stworzenia i uruchomienia programu:
+- edycja tekst źródłowy (txt)
+- kompilacja
+- linkowanie
+
+III. Jedna instrukcja może być zapisana w 3 liniach.
+
+IV. W jednej linii programu można umieścić kilka instrukcji.
+
+V. Koniec instrukcji oznaczany jest średnikiem.
+
+VI. Definicja zmiennej jest równocześnie jej deklaracją, ale nie odwrotnie.
+
+VII. Białe znaki: spacja, przejście do nowej linii, tabulator
+
+VIII. Deklaracja cout znajduje się w jednej ze standardowych bibliotek - iostream
+
+IX. Do napisania programu w C++ mogą posłużyć: Notatnik, Notepad++, CodeBlocks, Microsoft Visual Studio, C++ Builder
+
+X. Kompilator tłumaczy język źródłowy na język procesora (maszynowy)
+
+XI. Linker łączy nasz program z bibliotekami
+
+XII. Kompilatory C++ wyposażone w środowisko programowania: CodeBlocks, Microsoft Visual Studio, C++ Builder
+
+XIII. program - cout i \n 
+
+XIV. program - cale na centymetry
+
+XV. Deklaracja danej nazwy - konkretna nazwa oznaczająca obiekt jakiegoś typu.
+
+XVI. Komentarze w programie: /* */ lub // 
+
+XVII. Poprawność komentarzy:
+a) poprawny
+b) poprawny 
+c) niepoprawny - /* */ nie mogą być w sobie zagnieżdżone
+
+XVIII. Środowisko programowania - łatwe tworzenie komentarzy w CodeBlocks: Ctrl + Shift + C; Uncomment: Ctrl + Shift + X;

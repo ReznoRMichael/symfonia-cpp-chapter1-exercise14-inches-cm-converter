@@ -1,8 +1,8 @@
-# Learning C++ - Exercise: inches/cm converter
-> C++ learning handbook by Jerzy Grębosz - "Symfonia C++" (Chapter 1 exercise)
+# Learning C++ - Symfonia C++, Chapter 1 Exercises
+> C++ learning handbook by Jerzy Grębosz - "Symfonia C++" (Chapter 1 exercises)
 
 ## General info
-Learning basics of C++. Simple converter from inches to cm.
+Learning basics of C++. Doing all exercises and answering all questions from Chapter 1 of the handbook "Symfonia C++" from Jerzy Grębosz.
 
 ## Technologies
 * C++
